@@ -6,8 +6,10 @@ A brief description of what this repository is for and what it contains
 
 Bettenia "Tina" Cole (Data Curator) ##
 
-Saket Pandit (Programmer)##
-Mackenzie Knox (Analyst) ##
+Saket Pandit (Programmer)
+
+Mackenzie Knox (Analyst) 
+
 Taylor Falk (Biologist)
 
 # Repository Contents
