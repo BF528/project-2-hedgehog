@@ -1,2 +1,4 @@
 #! /bin/bash
-tophat -r 200 -G /project/bf528/project_2/reference/annot/mm9.gtf
+
+# Paired-end sequencing alignment
+tophat -r 200 -G <path_to_GTF_seq> --segment-length=20 --segment-mismatches=1 --no-novel-juncs -o P0_1_tophat -p 16 <path_to_ref_seq> <path_to_fastq1> <path_to_fastq2>
